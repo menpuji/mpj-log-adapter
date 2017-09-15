@@ -1,6 +1,6 @@
 {
   "name": "mpj-log-adapter",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "MPJ's Aliyun SLS service log message adapter package.",
   "main": "index.js",
   "scripts": {
