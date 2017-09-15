@@ -3,7 +3,14 @@
 This is a message adapter of MPJ's ali SLS service.
 
 # Version
-0.2.0
+## 0.2.0 2017-09-15
+### Update
+- remove AliSLSMessageGenerator
+
+## 0.2.0 2017-09-14
+### New
+- APIMessageAdapter
+- TEXTMessageAdapter
 
 # Install
 ```
